@@ -4,7 +4,7 @@ class connexion
 {
     function getConnexion()
     {
-        $dsn = "mysql:host=localhost;dbname=gestionimmobiliere";
+        $dsn = "mysql:host=localhost;dbname=reclamation";
         $username = "root";
         $password = "";
 
